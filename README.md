@@ -12,10 +12,10 @@ you did most of the task correctly
 even better if 
 --------------
 
-DONT COPY AND PASTE 
+don't copy and paste 
 
 
 learning action
 ---------------
 
-DONT COPY AND PASTE 
+don't copy and paste
