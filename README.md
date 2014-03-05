@@ -1,21 +1,21 @@
 Comments-and-strings.py
 =======================
 
-Comments and strings
+Comments and Strings
 
-what went well
+What Went Well
 --------------
 
-you did most of the task correctly
+You did most of the task correctly
 
 
-even better if 
+Even Better If 
 --------------
 
-don't copy and paste 
+Don't copy and paste 
 
 
-learning action
+Learning Action
 ---------------
 
-don't copy and paste
+Don't copy and paste
